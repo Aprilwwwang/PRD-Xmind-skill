@@ -1,0 +1,4 @@
+interface:
+  display_name: "Build XMind Test Cases"
+  short_description: "Create XMind test case maps."
+  default_prompt: "Use $build-xmind-test-cases to turn this PRD or prototype into an XMind test case map."
